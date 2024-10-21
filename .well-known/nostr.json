@@ -1,0 +1,14 @@
+{
+  "names": {
+    "Graeme": "npub1vpdlhqnmsuwuzzehn55sv85nypkc5wlpfvwhrkvadadm5y6zmnvqqjagyz"
+  },
+  "relays": {
+    "npub1vpdlhqnmsuwuzzehn55sv85nypkc5wlpfvwhrkvadadm5y6zmnvqqjagyz": ["wss://relay.primal.net", "wss://nostr.hekster.org", "wss://relay.nostr.band", "wss://atlas.nostr.land", "wss://purplepag.es", "wss://misskey.systems"]
+  }
+}
+
+
+
+
+
+
