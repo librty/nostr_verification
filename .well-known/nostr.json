@@ -1,9 +1,13 @@
 {
   "names": {
-    "Graeme": "npub1vpdlhqnmsuwuzzehn55sv85nypkc5wlpfvwhrkvadadm5y6zmnvqqjagyz"
+    "Graeme": "npub1vpdlhqnmsuwuzzehn55sv85nypkc5wlpfvwhrkvadadm5y6zmnvqqjagyz",
+    "UtopiaKu": "npub1nxms4fuy8f7n590aj88t6xjsx2e3anu8jrhqj4x0qrtlr24gn94q6vzvrv",
+    "OkamiKoda": "npub1ckh853qyx0r0v0fng5tutmresve9zee8c78v2tlg26qka3kwly7qpype5v"
   },
   "relays": {
-    "npub1vpdlhqnmsuwuzzehn55sv85nypkc5wlpfvwhrkvadadm5y6zmnvqqjagyz": ["wss://relay.primal.net", "wss://nostr.hekster.org", "wss://relay.nostr.band", "wss://atlas.nostr.land", "wss://purplepag.es", "wss://misskey.systems"]
+    "npub1vpdlhqnmsuwuzzehn55sv85nypkc5wlpfvwhrkvadadm5y6zmnvqqjagyz": ["wss://relay.primal.net", "wss://nostr.hekster.org", "wss://relay.nostr.band", "wss://atlas.nostr.land", "wss://purplepag.es", "wss://misskey.systems", "wss://relay.damus.io"],
+    "npub1nxms4fuy8f7n590aj88t6xjsx2e3anu8jrhqj4x0qrtlr24gn94q6vzvrv": ["wss://relay.primal.net", "wss://nostr.hekster.org", "wss://relay.nostr.band", "wss://atlas.nostr.land", "wss://purplepag.es", "wss://misskey.systems", "wss://relay.damus.io"],
+    "npub1ckh853qyx0r0v0fng5tutmresve9zee8c78v2tlg26qka3kwly7qpype5v": ["wss://relay.primal.net", "wss://nostr.hekster.org", "wss://relay.nostr.band", "wss://atlas.nostr.land", "wss://purplepag.es", "wss://misskey.systems", "wss://relay.damus.io"]
   }
 }
 
