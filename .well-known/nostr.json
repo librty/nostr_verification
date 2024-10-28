@@ -1,13 +1,17 @@
 {
   "names": {
     "Graeme": "npub1vpdlhqnmsuwuzzehn55sv85nypkc5wlpfvwhrkvadadm5y6zmnvqqjagyz",
+    "Librty": "npub1qzwjxm5v592h242rr6htyfskqh2q3fv87k4a4h5z7mqjgrd8rq4qtukyj8",
+    "Uncovr": "npub1gh80ga5pdc5zy0euf4kgxvjjvq08hnfe5dpfd8k90m8cxhlwngys5zn8xm",
     "UtopiaKu": "npub1nxms4fuy8f7n590aj88t6xjsx2e3anu8jrhqj4x0qrtlr24gn94q6vzvrv",
     "OkamiKoda": "npub1ckh853qyx0r0v0fng5tutmresve9zee8c78v2tlg26qka3kwly7qpype5v"
   },
   "relays": {
-    "npub1vpdlhqnmsuwuzzehn55sv85nypkc5wlpfvwhrkvadadm5y6zmnvqqjagyz": ["wss://relay.primal.net", "wss://nostr.hekster.org", "wss://relay.nostr.band", "wss://atlas.nostr.land", "wss://purplepag.es", "wss://misskey.systems", "wss://relay.damus.io"],
-    "npub1nxms4fuy8f7n590aj88t6xjsx2e3anu8jrhqj4x0qrtlr24gn94q6vzvrv": ["wss://relay.primal.net", "wss://nostr.hekster.org", "wss://relay.nostr.band", "wss://atlas.nostr.land", "wss://purplepag.es", "wss://misskey.systems", "wss://relay.damus.io"],
-    "npub1ckh853qyx0r0v0fng5tutmresve9zee8c78v2tlg26qka3kwly7qpype5v": ["wss://relay.primal.net", "wss://nostr.hekster.org", "wss://relay.nostr.band", "wss://atlas.nostr.land", "wss://purplepag.es", "wss://misskey.systems", "wss://relay.damus.io"]
+    "npub1vpdlhqnmsuwuzzehn55sv85nypkc5wlpfvwhrkvadadm5y6zmnvqqjagyz": ["wss://relay.primal.net", "wss://nostr.1312.media", "wss://relay.nostr.net", "wss://atlas.nostr.land", "wss://njump.me", "wss://misskey.systems", "wss://relay.damus.io"],
+    "npub1qzwjxm5v592h242rr6htyfskqh2q3fv87k4a4h5z7mqjgrd8rq4qtukyj8": ["wss://relay.primal.net", "wss://nostr.1312.media", "wss://relay.nostr.net", "wss://atlas.nostr.land", "wss://njump.me", "wss://misskey.systems", "wss://relay.damus.io"],
+    "npub1gh80ga5pdc5zy0euf4kgxvjjvq08hnfe5dpfd8k90m8cxhlwngys5zn8xm": ["wss://relay.primal.net", "wss://nostr.1312.media", "wss://relay.nostr.net", "wss://atlas.nostr.land", "wss://njump.me", "wss://misskey.systems", "wss://relay.damus.io"],
+    "npub1nxms4fuy8f7n590aj88t6xjsx2e3anu8jrhqj4x0qrtlr24gn94q6vzvrv": ["wss://relay.primal.net", "wss://nostr.1312.media", "wss://relay.nostr.net", "wss://atlas.nostr.land", "wss://njump.me", "wss://misskey.systems", "wss://relay.damus.io"],
+    "npub1ckh853qyx0r0v0fng5tutmresve9zee8c78v2tlg26qka3kwly7qpype5v": ["wss://relay.primal.net", "wss://nostr.1312.media", "wss://relay.nostr.net", "wss://atlas.nostr.land", "wss://njump.me", "wss://misskey.systems", "wss://relay.damus.io"]
   }
 }
 
